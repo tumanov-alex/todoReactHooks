@@ -68,8 +68,8 @@ export default function App() {
         />
         <Button
           title='SAVE'
-          color='black'
           onPress={saveTodo}
+          color='black'
           style={styles.saveTodo}
         />
       </View>
